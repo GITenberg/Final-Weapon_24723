@@ -1,0 +1,36 @@
+_repo: Final-Weapon_24723
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Leydenfrost, Alexander
+    birthdate: 1888
+    deathdate: 1961
+    gutenberg_agent_id: '26699'
+    url: http://www.gutenberg.org/2009/agents/26699
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cole, Everett B.
+    birthdate: 1918
+    deathdate: 1977
+    gutenberg_agent_id: '25329'
+    url: http://www.gutenberg.org/2009/agents/25329
+    wikipedia: http://en.wikipedia.org/wiki/Everett_B._Cole
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24723'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Telepathy -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Science fiction, American'
+title: Final Weapon
+url: http://www.gutenberg.org/ebooks/24723
